@@ -1,0 +1,17 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Buger Eats Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "F. Jonathan",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "cypress": "^9.5.2",
+    "cypress-file-upload": "^5.0.8",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
